@@ -1,0 +1,25 @@
+{
+    "members": [
+      {
+        "firstName": "Daniel",
+        "lastName": "Anugrah",
+        "gender": "male",
+        "age": 20,
+        "nim": "2311104049"
+      },
+      {
+        "firstName": "abi",
+        "lastName": "praya",
+        "gender": "male",
+        "age": 20,
+        "nim": "2311104044"
+      },
+      {
+        "firstName": "sam",
+        "lastName": "izzud",
+        "gender": "male",
+        "age": 20,
+        "nim": "2311104047"
+      }
+    ]
+  }
